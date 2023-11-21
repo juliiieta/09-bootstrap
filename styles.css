@@ -1,0 +1,24 @@
+header {
+    background-color: #2d61a3;
+    height: 90px;
+    justify-content: left;
+    text-align: left;
+}
+
+img {
+    margin: 25px;
+}
+
+header {
+    display: flex;
+}
+
+button {
+    background-color: #2d61a3;
+    color: white;
+
+}
+
+.cartas {
+    margin: 50%;
+}
